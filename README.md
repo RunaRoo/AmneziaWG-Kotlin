@@ -1,6 +1,7 @@
 # ✨ Raven Edge
 
 **High-Performance Kotlin Implementation of Wireguard and AmneziaWG.** 🚀
+Currently Linux Only
 
 Raven Edge is a Kotlin server implementation of the AmneziaWG protocol (a WireGuard fork with DPI-evasion obfuscation features). Built with Kotlin coroutines for concurrency and Netty using native io_uring and epoll transports, it delivers high-performance UDP handling optimized for modern Linux kernels. ✨
 
